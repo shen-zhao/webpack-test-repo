@@ -17,8 +17,10 @@ and `package.json`:
 
 I imported this package in two places
 
+`src/main.js`
 ![com1](./img/com1.png)
 - - - 
+`src/App.vue`
 ![com2](./img/com2.png)
 
 
@@ -30,8 +32,10 @@ then I run `npm run build`, the build result `15s`:
 
 change the two file to below:
 
+`src/main.js`
 ![com11](./img/com11.png)
 - - - 
+`src/App.vue`
 ![com22](./img/com22.png)
 
 then I run `npm run build`, the build result `127s`:
