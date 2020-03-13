@@ -4,7 +4,7 @@ module.exports = {
   configureWebpack: {
     resolve: {
       alias: {
-        '@mc/phone-pc-sdk': '@mc/phone-pc-sdk/lib/esm.vue.js'
+        // '@mc/phone-pc-sdk': '@mc/phone-pc-sdk/lib/esm.vue.js'
       }
     },
     plugins: [
